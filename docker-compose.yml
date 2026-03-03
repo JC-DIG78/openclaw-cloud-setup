@@ -1,0 +1,9 @@
+services:
+  openclaw:
+    image: ubuntu:22.04
+    container_name: openclaw_core
+    volumes:
+      - ./data:/app/data
+    restart: always
+    environment:
+      - API_KEY=tu_clave_aqui
