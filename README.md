@@ -29,7 +29,7 @@ Como usuario de **MacBook Pro M2**, mi flujo de trabajo está optimizado para la
 
 ## 📫 Conectemos
 ¡Hablemos sobre cómo escalar tu negocio con IA!
-* **LinkedIn:** [Tu Nombre Aquí](https://linkedin.com/in/digitalbusiness0101)
+* **LinkedIn:** [DigitalBusiness0101](https://linkedin.com/in/digitalbusiness0101)
 * **Email:** [javiercastrodigitalo@gmail.com](mailto:javiercastrodigitalo@gmail.com)
 * **GitHub:** [@JC-DIG78](https://github.com/JC-DIG78)
 
