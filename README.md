@@ -23,7 +23,7 @@ Para garantizar resultados profesionales y escalables, gestiono mis proyectos co
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [Javier Castro](https://www.linkedin.com/in/tu-usuario-real)
+* **LinkedIn:** [Digital Business](https://www.linkedin.com/in/digitalbusiness0101)
 * **Email:** [javiercastrodigitalo@gmail.com](mailto:javiercastrodigitalo@gmail.com)
 * **GitHub:** [JC-DIG78](https://github.com/JC-DIG78)
 
